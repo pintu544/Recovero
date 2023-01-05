@@ -1,4 +1,6 @@
 # MERN STACK ASSIGNMENT
+hosted url:https://musical-paprenjak-fee554.netlify.app/
+https://recovero-task-7san5pt43-pintu870.vercel.app/allUsers
 
 ## _NodeJs, MongoDB and ReactJs based project._
 
@@ -21,33 +23,20 @@
 - MongoDB
 - ReactJs
 
-## Project Demo
 
+Only the admin can add members.
+Admin can also delete members.
+Admin has access to all pages.
 
-# SignUp
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/one.png)
+Members can only access the dashboard and login
+page. Members can not create or delete any member.
 
-# Login
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/two.png)
+All api’s must be authenticated using Passport JWT Strategy.
 
-# Login-II
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/three.png)
-
-# User dashboard
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/four.png)
-
-# Admin dashboard
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/five.png)
-
-# Add new user
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/six.png)
-
-# Admin dashboard-II
-![image](https://github.com/Yashaswi-Anand/RecoveroTask/blob/master/screenshots/seven.png)
+All logs must be stored in a log file.(Can use any npm
+logging package).
 
 
 
 
-## Project link
-- API: localhost:8000
-- ReactJs: localhost:3000
+
